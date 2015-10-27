@@ -12,7 +12,7 @@
     <div id="myCarousel" class="carousel slide">
         <!-- Carousel items -->
         <div class="carousel-inner">
-            <div class="active item"><img src="<c:url value='/resources/img/home.jpg'/>" class="img-responsive" alt="Responsive image"/></div>
+            <div class="active item"><img src="<c:url value='/resources/img/g5.jpg'/>" height="100px" width="1280px" class="img-responsive" alt="Responsive image"/></div>
             <div class="item"><img src="<c:url value='/resources/img/jsc.png'/>" class="img-responsive" alt="Responsive image"/></div>
             <div class="item"><img src="<c:url value='/resources/img/idc.png'/>" class="img-responsive" alt="Responsive image"/></div>
             <div class="item"><img src="<c:url value='/resources/img/ksl.png'/>" class="img-responsive" alt="Responsive image"/></div>
